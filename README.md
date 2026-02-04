@@ -4,9 +4,6 @@
 
 End to end systems builder. I ship tools and decision engines with real constraints.
 
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-333333?logo=gmail&logoColor=white" /></a>
-
 <br/>
 
  <img src="https://img.shields.io/badge/Open%20to-Product%20Engineer%20%7C%20TPM%20%7C%20Full%20Stack-2EA44F" />
