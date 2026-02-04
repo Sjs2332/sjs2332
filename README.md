@@ -4,9 +4,6 @@
 
 End to end systems builder. I ship tools and decision engines with real constraints.
 
-</div>
-
----
 
 ## Featured work
 
