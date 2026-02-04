@@ -3,7 +3,6 @@
 # Jawad Shah
 
 End to end systems builder. I ship tools and decision engines with real constraints.
----
 
 ## Featured work
 
