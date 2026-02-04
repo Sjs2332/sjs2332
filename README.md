@@ -9,7 +9,7 @@ End to end systems builder. I ship tools and decision engines with real constrai
 
 <br/>
 
-<img src="https://img.shields.io/badge/Build-End%20to%20end-111111" /> <img src="https://img.shields.io/badge/Optimize-Cost%20%7C%20Latency%20%7C%20Reliability-111111" /> <img src="https://img.shields.io/badge/Open%20to-Product%20Engineer%20%7C%20TPM%20%7C%20Full%20Stack-2EA44F" />
+ <img src="https://img.shields.io/badge/Open%20to-Product%20Engineer%20%7C%20TPM%20%7C%20Full%20Stack-2EA44F" />
 
 </div>
 
