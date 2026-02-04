@@ -39,4 +39,5 @@ Low latency voice agent on Apple Silicon with local STT and TTS plus cloud LLM, 
 
 ---
 
-I ship fast and keep everything measurable.
+<div align="center"><i>I ship fast and keep everything measurable.</i></div>
+
