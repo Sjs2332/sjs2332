@@ -5,11 +5,6 @@
 End to end systems builder. I ship tools and decision engines with real constraints.
 
 <br/>
-
- <img src="https://img.shields.io/badge/Open%20to-Product%20Engineer%20%7C%20TPM%20%7C%20Full%20Stack-2EA44F" />
-
-</div>
-
 ---
 
 ## Featured work
