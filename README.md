@@ -1,84 +1,80 @@
-# Hey, I'm Jawad 👋
+<div align="center">
 
-**I build tools that solve problems I've personally hit.**
+# Jawad Shah
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+End-to-end systems builder. I ship decision engines, developer tools, and applied AI products.
 
----
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-333333?logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Open%20to-Product%20Engineer%20%7C%20TPM%20%7C%20Full%20Stack-2EA44F" />
 
-## 🛠️ What I've Shipped
+<br/>
 
-### ⚙️ [Text-to-.step](https://github.com/Sjs2332/Text-to-.step)
-> Natural language → production-ready CAD files
+<img src="https://img.shields.io/badge/Build-End%20to%20end-111111" />
+<img src="https://img.shields.io/badge/Optimize-Cost%20%7C%20Latency%20%7C%20Reliability-111111" />
+<img src="https://img.shields.io/badge/Output-Systems%20that%20make%20decisions-111111" />
 
-LLM generates FreeCAD Python scripts → executes in sandboxed Docker → exports real B-Rep geometry.
-
-`82% accuracy` · `<$0.01/gen` · `30-60s execution`
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+</div>
 
 ---
 
-### ⚡ [TokenAudit](https://github.com/Sjs2332/ai-cost-calculator)
-> Privacy-first cost tracking for LLM inference
+## Projects
 
-See exactly what you're spending per session. No database. No auth. Keys never touch disk.
+### 🧠 AuctionMatch
+<img src="https://img.shields.io/badge/Scale-150k%2B%20listings%20scanned-0B6E4F" />
+<img src="https://img.shields.io/badge/Engine-Pandas%20vectorized%20scoring-0B6E4F" />
+<img src="https://img.shields.io/badge/Output-Score%20%2B%20bid%20limits-0B6E4F" />
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+Vectorized auction analysis core that learns dealer purchase patterns, filters massive inventory to a small target set, and outputs ranked matches with data-backed bid ceilings.  
+➡️ https://github.com/Sjs2332/Auctionmatch
 
----
+### ⚙️ Text-to-.step
+<img src="https://img.shields.io/badge/Accuracy-82%25-2B59C3" />
+<img src="https://img.shields.io/badge/Cost-%3C%240.01%20per%20gen-2B59C3" />
+<img src="https://img.shields.io/badge/Runtime-30%20to%2060s-2B59C3" />
+<img src="https://img.shields.io/badge/Output-Parametric%20STEP%20%2F%20STL-2B59C3" />
+<img src="https://img.shields.io/badge/Execution-FreeCAD%20in%20Docker-2B59C3" />
 
-### 🎙️ [Local Voice Agent](https://github.com/Sjs2332/Local-voice-agent)
-> ~4 second end-to-end voice AI on Apple Silicon
+Natural language → real parametric CAD (STEP/STL) via a two-stage spec pipeline and FreeCAD execution with automatic retries on geometry failures.  
+➡️ https://github.com/Sjs2332/Text-to-.step
 
-Local STT (Parakeet-MLX) + Cloud LLM + Local TTS (Kokoro). Audio never leaves your machine.
+### 💸 TokenAudit
+<img src="https://img.shields.io/badge/Telemetry-Tokens%20%2B%20cost%20per%20turn-6A1B9A" />
+<img src="https://img.shields.io/badge/Privacy-Keys%20never%20stored-6A1B9A" />
+<img src="https://img.shields.io/badge/Infra-Stateless%20%2B%20no%20DB-6A1B9A" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Apple](https://img.shields.io/badge/Apple_Silicon-000000?style=flat&logo=apple&logoColor=white)
+Privacy-first token and cost tracking for LLM sessions. Client-side accounting with a blind proxy server design.  
+➡️ https://github.com/Sjs2332/ai-cost-calculator
 
----
+### 🧯 FireShrink
+<img src="https://img.shields.io/badge/Goal-Reduce%20storage%20%2B%20egress-CB3A2E" />
+<img src="https://img.shields.io/badge/Media-Images%20%2B%20videos-CB3A2E" />
+<img src="https://img.shields.io/badge/Safety-Skip%20if%20no%20savings-CB3A2E" />
 
-### 📊 [AuctionMatch](https://github.com/Sjs2332/Auctionmatch)
-> Vectorized auction analysis engine
+CLI that retroactively compresses Firebase Storage assets in place using stream-based processing with safety checks.  
+➡️ https://github.com/Sjs2332/Fireshrink
 
-Models historical purchase behavior against 150k+ live listings. Pandas/NumPy core with Next.js dashboard.
+### 🎙️ Local Voice Agent
+<img src="https://img.shields.io/badge/Latency-~4s%20end%20to%20end-8A6D3B" />
+<img src="https://img.shields.io/badge/Local-STT%20%2B%20TTS-8A6D3B" />
+<img src="https://img.shields.io/badge/LLM-Cloud%20inference-8A6D3B" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
----
-
-### 🔥 [FireShrink](https://github.com/Sjs2332/Fireshrink)
-> Retroactive Firebase Storage compression
-
-Connects to your bucket, identifies unoptimized assets, compresses in-place. Cut storage + egress costs.
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sjs2332&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+Hybrid voice agent optimized for Apple Silicon: local speech in/out plus cloud LLM, designed around real latency budgets.  
+➡️ https://github.com/Sjs2332/Local-voice-agent
 
 ---
 
-## 🧰 Stack
+## Stack
+TypeScript, React, Next.js, Node.js  
+Python, FastAPI, pandas, NumPy  
+Docker, Firebase, APIs, infra glue
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,fastapi,docker,nodejs,firebase,tailwind&theme=dark" />
-</p>
+---
+
+## Contact
+LinkedIn: YOUR_LINKEDIN  
+Email: YOUR_EMAIL
+
 
 ---
 
