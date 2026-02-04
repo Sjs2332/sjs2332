@@ -5,10 +5,11 @@
 End to end systems builder. I ship tools and decision engines with real constraints.
 
 <img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-000?logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-000?logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-000?logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-000?logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-000?logo=docker&logoColor=white" />
 
 </div>
@@ -40,4 +41,3 @@ Low latency voice agent on Apple Silicon with local STT and TTS plus cloud LLM, 
 ---
 
 <div align="center"><i>I ship fast and keep everything measurable.</i></div>
-
