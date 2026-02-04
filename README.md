@@ -4,11 +4,12 @@
 
 End to end systems builder. I ship tools and decision engines with real constraints.
 
-<img src="https://img.shields.io/badge/AuctionMatch-150k%2B%20listings%20scanned-0B6E4F" />
-<img src="https://img.shields.io/badge/AuctionMatch-~3s%20scan%20time%20local-0B6E4F" />
-<img src="https://img.shields.io/badge/Text--to--.step-82%25%20accuracy-2B59C3" />
-<img src="https://img.shields.io/badge/Text--to--.step-%3C%240.01%20per%20gen-2B59C3" />
-<img src="https://img.shields.io/badge/Voice%20Agent-~4.2s%20end%20to%20end-8A6D3B" />
+<img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-000?logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-000?logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-000?logo=docker&logoColor=white" />
 
 </div>
 
