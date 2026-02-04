@@ -4,8 +4,6 @@
 
 End to end systems builder. I ship tools and decision engines with real constraints.
 
-<img src="https://img.shields.io/badge/Build-End%20to%20end-111111" /> <img src="https://img.shields.io/badge/Optimize-Cost%20%7C%20Latency%20%7C%20Reliability-111111" /> <img src="https://img.shields.io/badge/Output-Systems%20that%20make%20decisions-111111" />
-
 </div>
 
 ---
