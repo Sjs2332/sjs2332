@@ -15,10 +15,10 @@ End to end systems builder. I ship tools and decision engines with real constrai
 
 ---
 
-## Selected work
+## Featured work
 
 **AuctionMatch**  
-Vectorized auction analysis core that learns purchase patterns, scans 150k+ listings, filters to a small target set, and outputs scores plus bid limits.  
+Vectorized auction analysis core that learns purchase patterns, scans **150k+ listings**, filters to a small target set, and outputs scores plus bid limits.  
 https://github.com/Sjs2332/Auctionmatch
 
 **Text-to-.step**  
@@ -37,15 +37,6 @@ https://github.com/Sjs2332/Fireshrink
 **Local Voice Agent**  
 Low latency voice agent on Apple Silicon with local STT and TTS plus cloud LLM, built around real latency budgets.  
 https://github.com/Sjs2332/Local-voice-agent
-
----
-
-## Stack
-TypeScript, React, Next.js, Node.js  
-Python, FastAPI, pandas, NumPy  
-Docker, Firebase, APIs
-
-
 
 ---
 
