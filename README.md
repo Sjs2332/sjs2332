@@ -18,7 +18,7 @@ Applied AI engineer. I build inference systems, decision engines, and developer 
 
 ## Featured work
 
-**[microGPT Visualizer](https://github.com/Sjs2332/microgpt-visualizer)**
+**[microGPT Visualizer](https://github.com/Sjs2332/microGPT_Visualizer)**
 Interactive transformer architecture explainer for Karpathy's microGPT. Type input and watch tokenization, embeddings, and attention heads update live.
 `35 stars` · `real-time visualization` · `TypeScript + React`
 
